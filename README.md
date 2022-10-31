@@ -31,7 +31,7 @@ __Папка model:__
 
 label_mapper.json  $~~~~~~~~~$  _Метки классов._
 
-https://drive.google.com/file/d/1DisM5e9Bj8OJogwZ0Ga8ZWav68tmdweQ/view?usp=share_link    $~~~~~~~~~$  _Ссылка на веса модели._
+https://drive.google.com/file/d/1DisM5e9Bj8OJogwZ0Ga8ZWav68tmdweQ/view?usp=share_link    $~~~~~~~~~$  _Ссылка на веса модели (дообученный bert)._
 
 ***
 
